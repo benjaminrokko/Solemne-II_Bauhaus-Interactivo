@@ -5,6 +5,10 @@ Nombre del proyecto:
 Autor/a:
 [Benjamin Rocco]
 
+**Link a p5js:**
+
+https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc
+
 Referente **"Poster de la Bauhaus Ausstellung 1923"**
 
 ![referente](referentebuhaus.jpg)
@@ -89,3 +93,5 @@ Esto crea un sistema donde el usuario actúa como “coautor” de la imagen.
 **Diagrama de flujo**
 
 ![Diagrama de flujo sistema generativo interactivo](diagramadeflujo.jpg)
+
+
