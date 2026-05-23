@@ -6,7 +6,8 @@ Autor/a:
 [Benjamin Rocco]
 
 Referente **"Poster de la Bauhaus Ausstellung 1923"**
-![referente](referentebuhaus.jpg.)
+
+![referente](referentebuhaus.jpg)
 
 Descripción objetiva
 
