@@ -77,3 +77,7 @@ El sistema responde directamente a la acción del usuario:
 - Aleatoriedad → genera variaciones de color en cada celda
 
 Esto crea un sistema donde el usuario actúa como “coautor” de la imagen.
+
+**Diagrama de flujo**
+
+![Diagrama de flujo sistema generativo interactivo](digramadeflujo.png)
