@@ -5,6 +5,8 @@ Nombre del proyecto:
 Autor/a:
 [Benjamin Rocco]
 
+Referente **"Poster de la Bauhaus Ausstellung 1923"**
+
 Descripción objetiva
 
 Este proyecto es una composición visual generativa creada en p5.js que produce un sistema de patrones geométricos en una grilla.
@@ -84,4 +86,4 @@ Esto crea un sistema donde el usuario actúa como “coautor” de la imagen.
 
 **Diagrama de flujo**
 
-![Diagrama de flujo sistema generativo interactivo](diagramadeflujo.png)
+![Diagrama de flujo sistema generativo interactivo](diagramadeflujo.jpg)
