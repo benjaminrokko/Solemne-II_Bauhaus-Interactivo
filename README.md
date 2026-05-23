@@ -67,6 +67,10 @@ Principio de diseño explorado
 - Variación de patrones en tiempo real
 - Cambio de formas según interacción
 - Movimiento visual dependiente del usuario
+- ![circulos pequeños (60)](img1.png) 
+- ![circulos grndes (80)](img2.png)
+- ![cuadrados](img3.png)
+  
 
 **Explicación del sistema de interactividad**
 
@@ -80,4 +84,4 @@ Esto crea un sistema donde el usuario actúa como “coautor” de la imagen.
 
 **Diagrama de flujo**
 
-![Diagrama de flujo sistema generativo interactivo](digramadeflujo.png)
+![Diagrama de flujo sistema generativo interactivo](diagramadeflujo.png)
